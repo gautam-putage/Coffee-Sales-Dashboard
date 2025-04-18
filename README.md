@@ -25,6 +25,9 @@ This dashboard is for presenting my insights to the regional manager of the coff
 - This could be due to the holiday season and we should be prepared for this trend next year
 - Resource management for peak months.
 
+![413263577-16df1cba-d0fe-4dba-a1a9-e1e330c58dbf](https://github.com/user-attachments/assets/ba126fbd-7166-4fb7-b85f-f7c6bc6f0dac)
+
+
 ---
 
 ## Data Story :
